@@ -1,2 +1,2 @@
 # myhub
-Just a sample project
+Just a sample project in GitHub 
